@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "First page"
+author: "Soobin Jung"
 comments: true
 tags: Tale
 ---
 
 My first post
 
-
-
-##첫번째 페이지
+==========
 
 **목차**
 
