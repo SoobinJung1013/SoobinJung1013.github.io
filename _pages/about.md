@@ -8,7 +8,7 @@ permalink: /about/
 love reading books. Of course, studying. 
 
 Also love to write because i have too many thoughts. And i like observing others as mush as writing. 
-I think... i enjoy difficult situations. Maybe it's because i know that the extreme conditions that can test my abilities will improve me. It's hard, but it's harder for me to stay the same without growing up. No matter what the reason is, i will keep moving forward. ... maybe that's my destiny.
+I think... i enjoy difficult situations. Maybe that's because i know that the extreme conditions that can test my abilities will improve me. It's hard, but it's harder for me to stay the same without growing up. Anyway no matter what the reason is, i will keep moving forward. ... maybe that's my destiny.
 
 
 
