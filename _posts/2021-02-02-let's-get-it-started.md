@@ -6,10 +6,6 @@ comments: true
 tags: Tale
 ---
 
-My first post
-
-==========
-
 **목차**
 
 1. 마음가짐
