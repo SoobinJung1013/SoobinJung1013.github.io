@@ -43,7 +43,7 @@ console.log(circle2.getArea()); //12.566370614359172
 
 
 
-![상속에 의한 메서드 공유](/Users/jeongsubin/Desktop/love/SoobinJung1013.github.io/images/inheritance.jpg) 
+![상속에 의한 메서드 공유](/SoobinJung1013.github.io/images/inheritance.jpg) 
 
 Circle 생성자 함수가 생성한 모든 인스턴스는 자신의 프로토타입, 즉 상위 (부모) 객체 역할을 하는 Circle.prototype 의 모든 프로퍼티와 메서드를 상속받는다. 
 
