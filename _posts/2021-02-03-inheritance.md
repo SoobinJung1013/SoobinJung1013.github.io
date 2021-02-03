@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "상속과 프로토타입"
+author: "Soobin Jung"
+comments: true
+tags: Tale
+
+---
+
+상속 : 어떤 객체의 프로퍼티 또는 메서드를 다른 객체가 상속받아 그대로 사용할 수 있는 것
+
+자바스크립트는 프로토타입을 기반으로 상속을 구현하여 불필요한 중복을 제거하는데, 이 때 기존의 코드를 적극적으로 재사용한다. 코드 재사용은 개발 비용을 현저히 줄일 수 있는 잠재력이 있으므로 메우 중요하다. 
+
+동일한 생성자 함수에 의해 생성된 모즌 인스턴스가 동일한 메서드를 중복 소유하는 것은 메모리를 불필요하게 낭비하며, 인스턴스를 생성할 때마다 메서드를 생성하므로 퍼포먼스에도 악영향을 준다. 이는 상속을 통해 불필요한 중복을 제거하면서 해결할 수 있다. 
+
+**자바스크립트는 프로토타입을 기반으로 상속을 구현한다**
+
+```javascript
+//생성자 함수
+function Circle(radius) {
+	this.radius = radius;
+}
+
+//Circle 생성자 함수가 생성한 모든 인스턴스가 getArea 메서드를 
+//공유해서 사용할 수 있도록 프로토타입에 추가한다.
+//프로토타입은 Circle 생성자 함수의 prototype 프로퍼티에 바인딩되어 있다.
+Circle.prototype.getArea = function () {
+	return Main.Pi * this.radius **2;
+}
+
+//인스턴스 생성
+const circle1 = new Circle(1);
+const circle2 = new Circle(2);
+
+//Circle 생성자 함수가 생성한 모든 인스턴스는 부모 객체의 역할을 하는
+//프로토타입 Circle.prototype으로부터 getArea 메서드를 상속받는다.
+//즉, Circle 생성자 함수가 생성하는 모든 인스턴스는 하나의 getArea 메서드를 공유한다. 
+console.log(circle1.getArea === circle2.getArea); //true
+
+console.log(circle1.getArea()); //3.141592653589793
+console.log(circle2.getArea()); //12.566370614359172
+```
+
+
+
+ ![inheritance](https://SoobinJung1013.github.io/images/inheritance.jpg)
+
+
+
+Circle 생성자 함수가 생성한 모든 인스턴스는 자신의 프로토타입, 즉 상위 (부모) 객체 역할을 하는 Circle.prototype 의 모든 프로퍼티와 메서드를 상속받는다. 
+
+getArea메서드는 단 하나만 생성되어 프로토타입인 Circle.prototype의 메서드로 할당되어 있어, Circle 생성자 함수가 생성하는 모든 인스턴스는 getArea 메서드를 상속받아 사용할 수 있다. 즉, 자신의 상태를 나타내는 radius  프로퍼티만 개별적으로 소유하고 내용이 동일한 메서드는 상속을 통해 공유하여 사용하는 것이다.
+
+생성자 함수가 생성할 모든 인스턴스가 공통적으로 사용할 프로퍼티나 메서드를 프로토타입에 미리 구현해 두면 생성자 함수가 생성할 모든 인스턴스는 별도의 구현 없이 상위 (부모) 객체인 프로토타입의 자산을 공유하여 사용할 수 있으므로, 상속은 코드의 재사용 관점에서 매우 유용하다. 
+
+
+
+**내 생각**
+
+작게 보면 일상생활 크게 보면 과학 기술에서도 '효율'이라는 것은 매우 중요하다. 효율을 위한 장치가 엄청난 결과의 차이로 나타나기 때문이다. 그 효율이라는 부분이 js에서도 사용되고 있다는 것이 반가우면서도 신기했다.  
