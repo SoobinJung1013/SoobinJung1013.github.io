@@ -8,5 +8,5 @@ tags: Tale
 
 ---
 
-![System Architecture](./images/architecture)
+![System Architecture](https://SoobinJung1013.github.io/images/architecture.png)
 
