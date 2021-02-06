@@ -12,15 +12,15 @@ tags: Tale
 
 -  [What is Nginx](https://www.nginx.com/resources/glossary/nginx/)
 
-  ​	: NGINX is open source software for web serving, [reverse proxying](https://ko.wikipedia.org/wiki/리버스_프록시), 	caching, load balancing, media streaming, and more. It started out as 	a web server capabilities, NGINX can also function as a proxy server 	for email. (IMAP, POP3, and SMTP) and a reverse proxy and load balancer for HTTP, TCP, and UDP servers.
+  : NGINX is open source software for web serving, [reverse proxying](https://ko.wikipedia.org/wiki/리버스_프록시), caching, load balancing, media streaming, and more. It started out as a web server capabilities, NGINX can also function as a proxy server for email. (IMAP, POP3, and SMTP) and a reverse proxy and load balancer for HTTP, TCP, and UDP servers.
 
-  - ​	[nginx 위키백과](https://ko.wikipedia.org/wiki/Nginx)
+  - [nginx 위키백과](https://ko.wikipedia.org/wiki/Nginx)
 
-  - [what is web server?](https://soobinjung1013.github.io/2021-02-06/basic)
+  - [what is web server?](https://soobinjung1013.github.io/2021-02-06/HTTP)
 
-    : Nginx 는 요청에 응답하기 위해 [비동기](https://www.yalco.kr/21_async/) [이벤트](https://ko.wikipedia.org/wiki/이벤트_(컴퓨팅)) 기반 구조를 가진다. 이것은 [아파치 HTTP 서버](https://namu.wiki/w/아파치%20HTTP%20서버)의 [스레드/프로세스](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html) 기반 구조를 가지는 것과는 대조적이다. 이러한 구조는 서버에 많은 부하가 생길 경우의 성능을 예측하기 쉽게 해준다. 
+  : Nginx 는 요청에 응답하기 위해 [비동기](https://www.yalco.kr/21_async/) [이벤트](https://ko.wikipedia.org/wiki/이벤트_(컴퓨팅)) 기반 구조를 가진다. 이것은 [아파치 HTTP 서버](https://namu.wiki/w/아파치%20HTTP%20서버)의 [스레드/프로세스](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html) 기반 구조를 가지는 것과는 대조적이다. 이러한 구조는 서버에 많은 부하가 생길 경우의 성능을 예측하기 쉽게 해준다. 
 
-- [About React](https://ko.reactjs.org)
+- About React
 
   : React는 사용자 인터페이스를 구축하기 위한 선언적이고 효율적이며 유연한 JavaScript 라이브러리이다. "컴포넌트"라고 불리는 작고 고립된 코드의 파편을 이용하여 복잡한 UI를 구성하도록 돕는다.
 
@@ -36,11 +36,35 @@ tags: Tale
 
   - 미들웨어
 
-    >
-    >
+  - Gunicorn
+
+    
+
     >그러니까 Gunicorn이나 uWSGI는 Apache나 nginx로 들어오는 HttpRequest를 Python이 이해할 수 있게 동시통역하여 던져주는 애들이라고 할 수 있는 것이다. 글을 들어가면서 말했던, 이러한 미들웨어가 필요없어보이는 php도 apache서버를 설정할 때 주석 해제를 통해 php버전에 맞게 모듈을 활성화시키는 걸 알고 있을 것이다. 그것이 바로 CGI역할을 하는 것이다. 스프링을 배포할 때에는 톰캣이 이러한 역할을 맡는다고 보면 쉽게 이해가 될 것이다. 그리고 이렇게 해석기와 웹서버가 달려있는 애들을 흔히 WAS(Wep Application Server)라고 부른다.
 
   --> 이 부분 [요런식](https://khanrc.tistory.com/entry/WSGI로-보는-웹-서버의-개념)으로 정리 ㄱ ㄱ
 
-- what is docker?
+  > ## 종합
+  >
+  > 1. http 리퀘스트가 들어오면
+  > 2. 웹 서버가 그 리퀘스트를 받고
+  >    - 서버사이드 처리가 필요 없으면 리스폰스를 리턴(static한 웹 서버)
+  > 3. 서버사이드 처리가 필요하면 wsgi 미들웨어를 통해 파이썬 어플리케이션으로 리퀘스트 전달
+  > 4. 파이썬 어플리케이션이 리퀘스트를 받아 처리 후 wsgi 미들웨어 - 웹서버를 통해 리스폰스 리턴.
+  >
+  > 의 구조라고 할 수 있다.
+  >
+  > 정리하자면, 상식대로 웹 서버 위에 서버 어플리케이션이 올라가는데 이 어플리케이션과 웹 서버간의 커뮤니케이션을 위해 wsgi 미들웨어가 존재하는 것. 이 미들웨어를 어플리케이션을 적재하는 어플리케이션 컨테이너라고도 할 수 있다. 자바는 잘 모르지만, 자바 서블릿 컨테이너도 동일한 개념으로 보인다.
+  >
+  > 
+  >
+  > 출처: https://khanrc.tistory.com/entry/WSGI로-보는-웹-서버의-개념 [khanrc's blog]
+
+- [what is docker?](https://www.yalco.kr/36_docker/)
+
+- what is MySQL?
+
+  : 세계에서 가장 많이 쓰이는 오픈 소스의 [관계형](https://ko.wikipedia.org/wiki/관계형_데이터베이스_관리_시스템) [데이터베이스 관리 시스템](https://ko.wikipedia.org/wiki/데이터베이스_관리_시스템)이다. 다중 스레드, 다중 사용자 형식의 구조질의어 형식의 데이터베이스 관리 시스템으로서 [오라클](https://ko.wikipedia.org/wiki/오라클_데이터베이스)이 관리 및 지원하고 있다. 
+
+  ​	[postgreSQL](https://namu.wiki/w/PostgreSQL)
 
