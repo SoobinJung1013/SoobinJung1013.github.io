@@ -52,9 +52,9 @@ tags: Tale
 - AB benchmark
 
 
-- Restful API 🌟 
+- [Restful API 🌟](https://restfulapi.net/) 
 
-- Swagger
+- [Swagger](https://swagger.io/)
 
 - Insomnia (Rest API client)
 
@@ -87,45 +87,6 @@ tags: Tale
 
 
 - WSGI
-
-
-
-💙
-
-- Bing Query
-
-- Node.js
-
-- Google data studio
-- Iot
-- Kubernetes
-- BIg Query -> serverless
-- Bucket
-- Json 
-- GCP - data sudo
-- 무슨 정보통신 보안법 ....
-- running scale
-
-- Complie language, Interpreter language
-
-- MVP (Minimum Variable Product)  
-
-Fast
-
-Iteration
-
-
-
-- [스마트 팩토리](https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC) : Iot & AI
--  SaaS
-- Code review
-
-
-
-test case..?
-
-- 리드미 잘 써야 함
-- gitignore
 
 
 
@@ -218,4 +179,41 @@ test case..?
 
 
 - 캐글, AI JAM - KOREA, Flagly 
+
+💙
+
+- Bing Query
+
+- Node.js
+
+- Google data studio
+- Iot
+- Kubernetes
+- BIg Query -> serverless
+- Bucket
+- Json 
+- GCP - data sudo
+- 무슨 정보통신 보안법 ....
+- running scale
+
+- Complie language, Interpreter language
+
+- MVP (Minimum Variable Product)  
+
+Fast
+
+Iteration
+
+
+
+- [스마트 팩토리](https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC) : Iot & AI
+-  SaaS
+- Code review
+
+
+
+test case..?
+
+- 리드미 잘 써야 함
+- gitignore
 
