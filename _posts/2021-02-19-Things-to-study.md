@@ -159,7 +159,7 @@ tags: Tale
   - [API 설계 가이드](https://bcho.tistory.com/954)
   - [REST : Good Practices for API Design](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9) 
 
-- 🤮
+- 🤮 (React + Typescript / Node + Express / PostgreSQL)
   - [React Getting Started](https://reactjs.org/docs/getting-started.html) 
   - [Tutorial : Intro to React](https://reactjs.org/tutorial/tutorial.html) 
   - [TypreScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) 
@@ -202,6 +202,7 @@ tags: Tale
 
 - Python << Go, Node
 - PHP : old ...
+- React Native
 - 😰
   - [React + Flask](https://blog.miguelgrinberg.com/post/how-to-deploy-a-react--flask-project)
   - [Build & Deploy a Web-App with Reac, Flask, NGINX, PostgreSQL, Docker and Google Kubernetes Engine](https://mickeyabhi1999.medium.com/build-and-deploy-a-web-app-with-react-flask-nginx-postgresql-docker-and-google-kubernetes-e586de159a4d) 
@@ -212,9 +213,9 @@ tags: Tale
 
 - [Kafka](https://medium.com/@umanking/%EC%B9%B4%ED%94%84%EC%B9%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%95%98%EA%B8%B0%EC%A0%84%EC%97%90-%EB%A8%BC%EC%A0%80-data%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%B4%EB%B3%B4%EC%9E%90-d2e3ca2f3c2)
 
-
-
 - 캐글, AI JAM - KOREA, Flagly 
+
+  
 
 💙
 
@@ -252,4 +253,6 @@ test case..?
 
 - 리드미 잘 써야 함
 - gitignore
+
+
 
