@@ -9,54 +9,101 @@ tags: Tale
 
 ---
 
-javascript,react
+❤️
 
-python, flak, django
+- Javascript (React)
 
-Java, spring
+- Python (Flak, Django)
 
-css, bootstrap
 
-RDBMS, mysql
+- Java (Spring)
 
-NoSQL, Mongo
 
-Redis
+- CSS (bootstrap)
 
-Docker
 
-Queue, RabbitMQ
+- RDBMS (MySql)
 
-Nginx
 
-AWS
+- NoSQL (Mongo)
 
-GCP
 
-Monitoring, Prometheus, Grafana
+- Redis
 
-AB benchmark
 
-Restful API 🌟, swagger
+- Docker
 
-Insomnia, rest api client
 
-microservice
+- Queue (RabbitMQ)
 
-ORM
 
-OOP
+- Nginx
 
-git
 
-IntelliJ
+- AWS
 
-vscode
 
-sublime
+- GCP
 
-tensorflow
 
-gunicorn
+- Monitoring (Prometheus, Grafana)
 
-WSGI
+
+- AB benchmark
+
+
+- Restful API 🌟 
+
+- Swagger
+
+- Insomnia (Rest API client)
+
+
+- Microservice
+
+
+- ORM
+
+
+- OOP
+
+
+- git
+
+
+- IntelliJ
+
+
+- vscode
+
+
+- sublime
+
+
+- Tensorflow
+
+
+- Gunicorn
+
+
+- WSGI
+
+
+
+💙
+
+- Bing Query
+
+- Node.js
+
+- Google data studio
+
+
+
+
+
+✨
+
+- PoC (Proof Of Concept)
+- Visualization
+
