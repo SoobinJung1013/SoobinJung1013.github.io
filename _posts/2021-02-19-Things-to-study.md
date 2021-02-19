@@ -49,7 +49,7 @@ tags: Tale
 - AB benchmark
 
 
-- [Restful API 🌟](https://restfulapi.net/) 
+- [Restful API 🌟](https://restfulapi.net/)   ☑️
 
 - [Swagger](https://swagger.io/)
 
@@ -175,6 +175,7 @@ tags: Tale
 - [스키마 짜는 툴 (쿼리 코드 잘 추출해줌)](https://sqldbm.com/Home/)
 - [Mysql client program : Sequel Pro](https://www.sequelpro.com/)
 - Swagger
+  
   - [python swagger sample](http://thomaxxl.pythonanywhere.com/api/#/)
 - Insomnia
 - [Apache Beam](https://beam.apache.org/get-started/wordcount-example/)
@@ -208,6 +209,7 @@ tags: Tale
   - [Build & Deploy a Web-App with Reac, Flask, NGINX, PostgreSQL, Docker and Google Kubernetes Engine](https://mickeyabhi1999.medium.com/build-and-deploy-a-web-app-with-react-flask-nginx-postgresql-docker-and-google-kubernetes-e586de159a4d) 
   - 
 - MySQL, Postgre, Mongo, Firebase
+  
   - Big Query 
 - [Npm](https://www.npmjs.com/)
 
