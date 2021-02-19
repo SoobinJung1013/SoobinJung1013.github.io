@@ -159,35 +159,54 @@ test case..?
 - 개발언어 << Framework 🌟
 
 - Docker & kubernetes - Deploy 시 필수
+  - [Docker 개념](https://www.youtube.com/watch?v=hWPv9LMlme8)
   - [Kubernets tutorial](https://kubernetes.io/ko/docs/tutorials/hello-minikube/)
-- [software design document](https://www.toptal.com/freelance/why-design-documents-matter) or [technical design document](https://blog.tara.ai/software-design-documents/) 
+- 🥺
+  - [software design document](https://www.toptal.com/freelance/why-design-documents-matter)
+  - [technical design document](https://blog.tara.ai/software-design-documents/) 
+  - [how 2 write a good software design doc](https://medium.com/free-code-camp/how-to-write-a-good-software-design-document-66fcf019569c)
 
-💛
-
-- 😍
+- 🤮
   - [React Getting Started](https://reactjs.org/docs/getting-started.html) 
   - [Tutorial : Intro to React](https://reactjs.org/tutorial/tutorial.html) 
   - [TypreScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) 
   - [TypeScript 한글ver](https://typescript-kr.github.io/)
-
-- ESLint, Prettier
-
-- TypeScript
-
-- Redux/Immutable.js
-
-- LifeCycle
-
-- Context API
+  - [React와 Typescript 기반의 웹앱 개발](https://github.com/textuel/Woowa_Tech_Learning_React_Typescript)
+  - ESLint, Prettier
+  - Redux/Immutable.js
+  - LifeCycle
+  - Context API
+  - [Bootstrap](https://reactstrap.github.io/)
 
 - Serverless
+- [스키마 짜는 툴 (쿼리 코드 잘 추출해줌)](https://sqldbm.com/Home/)
+- [Mysql client program : Sequel Pro](https://www.sequelpro.com/)
+- Swagger
+  - [python swagger sample](http://thomaxxl.pythonanywhere.com/api/#/)
+- Insomnia
+- [Apache Beam](https://beam.apache.org/get-started/wordcount-example/)
+- [Developer roadmap](https://github.com/devJang/developer-roadmap)
 - Higher Order Component (HOC)
 - MDN
-
-
+- [REST API Tutorial](https://restfulapi.net/)
+- [API 설계 가이드](https://bcho.tistory.com/954) 
+- 🥵
+  - 무료 정적 호스팅 사이트
+    - vercel
+    - Netlify
+    - Github Pages
+  - 무료 서버 호스팅 사이트
+    - Heroku
+- 위에 보다 이거 쓰기 🤗
+  - AWS
+  - GCP
+  - Azure
+- Java
+  - [자바 디자인 패턴](https://medium.com/evision/important-java-design-patterns-you-need-to-know-about-5b80a612003e) 
+  - Java or C : Productivity ⬇️
+  - [Spring Boot and React JS Fullstack Application](https://medium.com/swlh/spring-boot-and-react-js-fullstack-application-7ad99139e95c)
 
 - Python << Go, Node
-- Java or C : Productivity ⬇️
 - PHP : old ...
 - MySQL, Postgre, Mongo, Firebase
   - Big Query 
