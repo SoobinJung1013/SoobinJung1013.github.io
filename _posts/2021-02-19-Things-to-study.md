@@ -4,9 +4,6 @@ title:  "Things to study"
 author: "Soobin Jung"
 comments: true
 tags: Tale
-
-
-
 ---
 
 ❤️
@@ -62,8 +59,7 @@ tags: Tale
 - Microservice
 
 
-- ORM
-
+- [ORM](https://blog.yellowant.com/orm-rethinking-data-as-objects-8ddaa43b1410)
 
 - OOP
 
@@ -110,22 +106,58 @@ tags: Tale
 🤎
 
 - Python - Flask, Django, 활용서 (웹개발/앱개발)
+
 - Java - Spring 프레임워크, Hibernate (ORM), 활용서 (웹개발 /앱개발)
+
 - React 개발서 - Java script, JQuery, Bootstrap, HTML/CSS
+
 - MySQL - 기초 ~ 고급
+
 - NoSQL - Mongo DB 관련 서적
+
 - OOP, ORM - JPA eBean 디자인
+
 - Android, iOS 개발서
+
 - Clean code
+
 - 개발언어 << Framework 🌟
 
-- Docker & kubernetes - Deploy 시 필수
+- ELK
+
+  - [Docker-elk](https://github.com/deviantony/docker-elk/blob/main/docker-compose.yml)
+
+- Elasticsearch
+
+  - [기본개념](https://victorydntmd.tistory.com/308) 
+
+  - [실전 예제](https://www.elastic.co/kr/blog/an-introduction-to-elasticsearch-sql-with-practical-examples-part-1)
+
+  - [공식 사이트](https://www.elastic.co/guide/index.html)
+
+  - [Install Elasticsearch with Docker](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
+
+  - [Python, Django, Elasticsearch를 사용해서 검색엔진 구축하기](https://blog.nerdfactory.ai/2019/04/29/django-elasticsearch-restframework.html)
+
+  - [카바나(Kibana)dml Visualize와 Dashboard 사용해서 시각화하기](https://epicarts.tistory.com/75)
+
+  - [로그스테쉬 (Logstash)](https://soyoung-new-challenge.tistory.com/99)
+
+  - [Django + ELK](https://www.codementor.io/@samueljames/using-django-with-elasticsearch-logstash-and-kibana-elk-stack-9l4fwx138)
+
+    
+
+- Docker & kubernetes ➡️ Deploy 시 필수
   - [Docker 개념](https://www.youtube.com/watch?v=hWPv9LMlme8)
   - [Kubernets tutorial](https://kubernetes.io/ko/docs/tutorials/hello-minikube/)
 - 🥺
   - [software design document](https://www.toptal.com/freelance/why-design-documents-matter)
   - [technical design document](https://blog.tara.ai/software-design-documents/) 
   - [how 2 write a good software design doc](https://medium.com/free-code-camp/how-to-write-a-good-software-design-document-66fcf019569c)
+- 🥰
+  - [REST API Tutorial](https://restfulapi.net/)
+  - [API 설계 가이드](https://bcho.tistory.com/954)
+  - [REST : Good Practices for API Design](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9) 
 
 - 🤮
   - [React Getting Started](https://reactjs.org/docs/getting-started.html) 
@@ -149,8 +181,6 @@ tags: Tale
 - [Developer roadmap](https://github.com/devJang/developer-roadmap)
 - Higher Order Component (HOC)
 - MDN
-- [REST API Tutorial](https://restfulapi.net/)
-- [API 설계 가이드](https://bcho.tistory.com/954) 
 - 🥵
   - 무료 정적 호스팅 사이트
     - vercel
