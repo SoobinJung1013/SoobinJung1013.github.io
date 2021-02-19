@@ -163,9 +163,13 @@ test case..?
 
 
 - Docker & kubernetes 🌟 Deploy 시 필수
-- software design document or technical design document 
+- [software design document](https://www.toptal.com/freelance/why-design-documents-matter) or [technical design document](https://blog.tara.ai/software-design-documents/) 
 
 💛
+
+- [React Getting Started](https://reactjs.org/docs/getting-started.html) , [Tutorial : Intro to React](https://reactjs.org/tutorial/tutorial.html) , [TypreScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+  
 
 - ESLint, Prettier
 
