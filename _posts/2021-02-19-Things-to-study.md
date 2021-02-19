@@ -158,18 +158,17 @@ test case..?
 - Clean code
 - 개발언어 << Framework 🌟
 
-
-
-
-
-- Docker & kubernetes 🌟 Deploy 시 필수
+- Docker & kubernetes - Deploy 시 필수
+  - [Kubernets tutorial](https://kubernetes.io/ko/docs/tutorials/hello-minikube/)
 - [software design document](https://www.toptal.com/freelance/why-design-documents-matter) or [technical design document](https://blog.tara.ai/software-design-documents/) 
 
 💛
 
-- [React Getting Started](https://reactjs.org/docs/getting-started.html) , [Tutorial : Intro to React](https://reactjs.org/tutorial/tutorial.html) , [TypreScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-
-  
+- 😍
+  - [React Getting Started](https://reactjs.org/docs/getting-started.html) 
+  - [Tutorial : Intro to React](https://reactjs.org/tutorial/tutorial.html) 
+  - [TypreScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) 
+  - [TypeScript 한글ver](https://typescript-kr.github.io/)
 
 - ESLint, Prettier
 
