@@ -181,6 +181,9 @@ tags: Tale
 - [Developer roadmap](https://github.com/devJang/developer-roadmap)
 - Higher Order Component (HOC)
 - MDN
+- SSR
+  - [1](https://donggyu9410.medium.com/%EC%99%9C-%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C%EC%9A%94-eb41a594f94b)
+  - [2](https://lemontia.tistory.com/938)
 - 🥵
   - 무료 정적 호스팅 사이트
     - vercel
@@ -199,10 +202,13 @@ tags: Tale
 
 - Python << Go, Node
 - PHP : old ...
+- 😰
+  - [React + Flask](https://blog.miguelgrinberg.com/post/how-to-deploy-a-react--flask-project)
+  - [Build & Deploy a Web-App with Reac, Flask, NGINX, PostgreSQL, Docker and Google Kubernetes Engine](https://mickeyabhi1999.medium.com/build-and-deploy-a-web-app-with-react-flask-nginx-postgresql-docker-and-google-kubernetes-e586de159a4d) 
+  - 
 - MySQL, Postgre, Mongo, Firebase
   - Big Query 
-
-
+- [Npm](https://www.npmjs.com/)
 
 - [Kafka](https://medium.com/@umanking/%EC%B9%B4%ED%94%84%EC%B9%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%95%98%EA%B8%B0%EC%A0%84%EC%97%90-%EB%A8%BC%EC%A0%80-data%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%B4%EB%B3%B4%EC%9E%90-d2e3ca2f3c2)
 
