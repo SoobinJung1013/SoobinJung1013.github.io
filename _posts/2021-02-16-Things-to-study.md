@@ -97,13 +97,32 @@ tags: Tale
 - Node.js
 
 - Google data studio
+- Iot
+- Kubernetes
 
 
 
 
 
-✨
+🖤
 
 - PoC (Proof Of Concept)
-- Visualization
+- Design Doc
+- Visualization (SaaS)
+
+
+
+🤍
+
+- Slack
+- Github
+- notion
+- Google doc
+
+
+
+🤎
+
+- Python - Flask, Django, 활용서 (웹개발/앱개발)
+- Java - Spring 프레임워크, Hibernate (ORM), 활용서 (웹개발 /앱개발)
 
