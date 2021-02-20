@@ -258,3 +258,7 @@ test case..?
 
 
 
+- [컴퓨터 네트워크](https://ko.wikipedia.org/wiki/컴퓨터_네트워크)
+- [Elasticsearch기본개념](https://victorydntmd.tistory.com/308), [실전 예제와 함께 보는 elasticsearch SQL](https://www.elastic.co/kr/blog/an-introduction-to-elasticsearch-sql-with-practical-examples-part-1)
+- [python swagger sample](http://thomaxxl.pythonanywhere.com/api/#/), swagger
+- [react + typescript 기반의 웹앱 개발](https://github.com/textuel/Woowa_Tech_Learning_React_Typescript)
