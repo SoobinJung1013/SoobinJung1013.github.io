@@ -1,11 +1,3 @@
----
-layout: post
-title:  "Things to study"
-author: "Soobin Jung"
-comments: true
-tags: Tale
----
-
 ❤️
 
 - Javascript (React)
