@@ -1,5 +1,6 @@
+---
 layout: post
-title:  "Opensource Homework"
+title:  "Opensource project homework"
 author: "Soobin Jung"
 comments: true
 tags: Tale
@@ -16,3 +17,6 @@ tags: Tale
 [소켓 프로그래밍](https://m.blog.naver.com/PostView.nhn?blogId=dd1587&logNo=221150052315&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 [Socket programming](https://recipes4dev.tistory.com/153) --> good
+
+[TCP/UDP at socket programming](https://mangkyu.tistory.com/15)
+
