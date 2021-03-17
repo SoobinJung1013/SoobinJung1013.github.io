@@ -11,13 +11,13 @@ tags: Tale
 
 🌟✨🤍
 
-[빅쿼리 스키마 지정](https://cloud.google.com/bigquery/docs/schemas?hl=ko)
+2 [빅쿼리 스키마 지정](https://cloud.google.com/bigquery/docs/schemas?hl=ko)
 
 ![System Architecture](https://SoobinJung1013.github.io/images/bq_data_type.png)
 
-[Drawsql](https://drawsql.app/home)
+4 [Drawsql](https://drawsql.app/home)
 
-[Bq data modeling](https://medium.com/@himan.bapna/bigquery-table-schema-fd3c25eb8d39)
+3 [Bq data modeling](https://medium.com/@himan.bapna/bigquery-table-schema-fd3c25eb8d39)
 
 database schema
 
@@ -27,7 +27,7 @@ database table
 
 --> 이렇게 검색 ㄱ ㄱ 
 
-[db 개념 정리](https://velog.io/@inyong_pang/Database-%EA%B8%B0%EC%B4%88-%EC%9D%B4%ED%95%B4)
+1 [db 개념 정리](https://velog.io/@inyong_pang/Database-%EA%B8%B0%EC%B4%88-%EC%9D%B4%ED%95%B4) --> 지금 이거 읽고있었음 
 
 [Sql 위키백과](https://ko.wikipedia.org/wiki/SQL#%ED%91%9C%EC%A4%80%ED%99%94)
 
@@ -42,3 +42,14 @@ database table
 ![System Architecture](https://SoobinJung1013.github.io/images/normalization.png)
 
 스키마, rdbms, 정규화 비정규화, PK/FK, nested 구조, Transaction, 
+
+
+
+[Ex](https://wiki.openstreetmap.org/w/images/5/58/OSM_DB_Schema_2016-12-13.svg)
+
+pinterest
+
+[Gap bigquery 구체화된 뷰](https://cloud.google.com/bigquery/docs/materialized-views-intro?hl=ko)
+
+[big query schema](https://cloud.google.com/bigquery/docs/reference/standard-sql/data-types?hl=ko#struct-type)
+
