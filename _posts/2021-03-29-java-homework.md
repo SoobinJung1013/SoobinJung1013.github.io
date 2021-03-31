@@ -21,6 +21,8 @@ npm : 패키지 관리 (javascript)
 
 pip
 
+[[Maven\] pom.xml 파일 기본](https://araikuma.tistory.com/447)
+
 
 
 JVM, 톰캣 
@@ -52,4 +54,20 @@ WAS
 [컴퓨터 월드](http://www.comworld.co.kr/)
 
 [pom.xml](https://araikuma.tistory.com/447) 
+
+[**- Eclipse 자주 쓰는 단축키 -**](https://www.crocus.co.kr/1614)
+
+# [스프링 부트 (Spring Boot) 로 시작하는 프레임워크 (Framework)](https://futurecreator.github.io/2016/06/18/spring-boot-get-started/)
+
+### [[해결방법]Project configuration is not up-to-date with pom.xml...](http://blog.naver.com/PostView.nhn?blogId=bestheroz&logNo=221321544367&categoryNo=0&parentCategoryNo=60&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
+
+ 
+
+ 
+
+# [Error : Unable to access jarfile target/*.jar](https://www.inflearn.com/questions/13385)
+
+# [eclipes(이클립스) Maven Project 만들기 및 Maven(메이븐)이란 무엇일까?](https://admm.tistory.com/15)
+
+# [lombok(롬복)소개 및 설치](https://taetaetae.github.io/2017/02/22/lombok/)
 
